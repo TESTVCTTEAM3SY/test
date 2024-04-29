@@ -1,1 +1,2 @@
 print("こんにちはPython!")
+print("HelloooooはPython!")
